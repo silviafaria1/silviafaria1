@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi, I'm Sílvia Faria 👋
 
+Master Student - Electrical and Computer Engineering @ FEUP
 <!--
 **silviafaria1/silviafaria1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

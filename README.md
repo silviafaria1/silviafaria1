@@ -2,7 +2,7 @@
 
 Master Student - Electrical and Computer Engineering @ FEUP
 
-[LinkedIn](https://www.linkedin.com/in/s%C3%ADlvia-faria/)
+[LinkedIn](https://www.linkedin.com/in/s%C3%ADlvia-faria/) | [CV](https://drive.google.com/drive/folders/1IaTALjWlOPsClQTO_LHl38kzZS3IJghO?usp=sharing)
 <!--
 **silviafaria1/silviafaria1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

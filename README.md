@@ -1,6 +1,6 @@
 ### Hi, I'm Sílvia Faria 👋
 
-Master Student - Electrical and Computer Engineering @ FEUP
+Electrical and Computer Engineer @ FEUP
 
 [LinkedIn](https://www.linkedin.com/in/s%C3%ADlvia-faria/) | [CV](https://drive.google.com/drive/folders/1QW-zKAq7cA6AJyNT__0qYVLIfRnihoVf?usp=sharing)
 <!--
